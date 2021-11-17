@@ -1,0 +1,3 @@
+/home/mf6806/CLionProjects/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mf6806/CLionProjects/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mf6806/CLionProjects/lab5/cmake-build-debug/CMakeFiles/lab5.dir
